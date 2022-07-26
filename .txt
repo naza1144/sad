@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="paeg2.css">
+    <title>paeg</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="https://about-me-a9a24.web.app">Code</a>
+                </div>
+                <a href="#" class="bar">
+                    <i class="fas fa-bars"></i>
+                </a>
+                <nav>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <div class="dropdown">
+                            <li><a href="">My Project</a></li>
+                            <div class="dropdown-content">
+                                <a href="#">3D</a>
+                                <a href="public\pang2\jj.html">Code</a>
+                                <a href="#">Art</a>
+                            </div>
+                        </div>
+                        <li><a href="">What abot me</a></li>
+                        <li><a href="">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+</body>
+
+</html>
